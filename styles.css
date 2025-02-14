@@ -219,7 +219,7 @@
 
 /* Hero Section */
 .hero {
-  background-image: url("/img/pic218.jpg");
+  background-image: url("img/pic218.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -522,7 +522,7 @@
 /* Events */
 
 .events {
-  background-image: url("/img/pic216.jpg"); /* Set background image for events section */
+  background-image: url("img/pic216.jpg"); /* Set background image for events section */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
